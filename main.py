@@ -1,7 +1,10 @@
-a=5
-e=4
+a = 5
+e = 4
+
+
 def main():
- print("hello")
+    print("hello")
+
 
 main()
-print(a,e)
+print(a, e)
